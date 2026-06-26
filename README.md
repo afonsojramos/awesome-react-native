@@ -559,6 +559,7 @@ Components and native modules.
 * [react-native-select-multiple  ★58](https://github.com/tableflip/react-native-select-multiple) -A simple and easy to use component for multiple selection of item from List.
 * [react-native-easy-content-loader ★57](https://github.com/sarmad1995/react-native-easy-content-loader) - React-Native light weight skeleton content loading.
 * [react-native-multiple-choice ★57](https://github.com/d-a-n/react-native-multiple-choice) - A cross-platform (iOS / Android) single and multiple-choice React Native component.
+* [react-native-super-calendar](https://github.com/afonsojramos/react-native-super-calendar) - Virtualized month/week/day calendar and date picker with a pinch-to-zoom time grid. iOS, Android, and web.
 * [k-react-native-swipe-unlocker ★55](https://github.com/leowang721/k-react-native-swipe-unlocker) - A simple swipe unlock for React Native
 * [react-native-walkthrough-tooltip ★55](https://github.com/CompanyCam/react-native-walkthrough-tooltip) - Highlight a component via tooltip/popover
 * [react-native-adbannerview ★52](https://github.com/Purii/react-native-adbannerview) - React Native Bridge for ADBannerView
